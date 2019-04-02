@@ -70,6 +70,23 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/css/styles/fonts.less": {
+		"aP": 0,
+		"bl": 0,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/css/styles/fonts.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/css/styles/page-splash.less": {
 		"aP": 0,
 		"bl": 0,
@@ -154,6 +171,70 @@
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
+		},
+	"/fonts/Knockout-26JuniorFlywght.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Knockout-26JuniorFlywght.woff",
+		"oF": 0
+		},
+	"/fonts/Knockout-26JuniorFlywght.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Knockout-26JuniorFlywght.woff2",
+		"oF": 0
+		},
+	"/fonts/Knockout-49Liteweight.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Knockout-49Liteweight.woff",
+		"oF": 0
+		},
+	"/fonts/Knockout-49Liteweight.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/Knockout-49Liteweight.woff2",
+		"oF": 0
+		},
+	"/fonts/volte-medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/volte-medium.woff",
+		"oF": 0
+		},
+	"/fonts/volte-medium.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/volte-medium.woff2",
+		"oF": 0
+		},
+	"/fonts/volte-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/volte-regular.woff",
+		"oF": 0
+		},
+	"/fonts/volte-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/fonts/volte-regular.woff2",
+		"oF": 0
 		},
 	"/home.html": {
 		"cB": 0,
