@@ -1,0 +1,1 @@
+"use strict";function isValid(){"rawr"==document.getElementById("password").value?alert("Correct!"):alert("Wrong Password")}
