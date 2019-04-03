@@ -1,7 +1,7 @@
 // Basic HTML tags
 body { 
-	background:@white; 
-	color:@black;
+	background:@black;
+	color:@white;
 	font-family:@font-family-volte;
 	font-size:1em;
 	line-height:1.3;
@@ -9,11 +9,19 @@ body {
 	padding:0; 
 }
 
-a, 
-a:link, 
-a:visited, 
-a:active { color:; text-decoration:none;}
-a:hover  { background:; color:@white; } 
+a {
+	&,
+	&:link, 
+	&:visited, 
+	&:active { 
+		color:@white; 
+		text-decoration:none;
+	}
+	&:hover { 
+		background:; 
+		color:; 
+	} 
+}
 
 img { border:0; max-width:100%; }
 

@@ -1,8 +1,59 @@
 // Header
 #branding {
-	
+	align-items:center;
+	background:@black;
+	color:@white;
+	display:flex;
+	justify-content:space-between;
+	padding:0 2em;
+
+	.logos {
+		padding:1em 0;
+	}
 }
 
 #primary-nav {
-	
+	ul {
+		display:flex;
+		justify-content:flex-end;
+	}
+
+	// Inactive
+	.nav-link {
+		display:block;
+		font-size:1.125em;
+		padding:0.5em 1em;
+		text-align:center;
+
+		* {
+			transition:color 0.25s ease;
+		}
+		
+		.nav-link_primary-label {
+			color:@white;
+		}
+		.nav-link_secondary-label {
+			color:@gray;
+		}
+	}
+	.nav-link_primary-label,
+	.nav-link_secondary-label {
+		display:block;
+		text-transform:uppercase;
+	}
+	.nav-link_primary-label {
+		font:400 2em/1 @font-family-knockout-wide;
+		letter-spacing:0.035em;
+	}
+	.nav-link_secondary-label {
+		font-size:1em;
+		font-weight:500;
+	}
+
+	.nav-link.active,
+	.nav-link:hover {
+		.nav-link_primary-label {
+			color:@red;
+		}
+	}
 }
