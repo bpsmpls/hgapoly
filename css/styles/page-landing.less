@@ -1,0 +1,73 @@
+// Landing Page
+#landing {
+
+	.landing_nav-grid {
+		display:grid;
+		grid-gap:1em;
+		grid-template-columns:1fr 1fr 1fr;
+		grid-template-areas:'how how how''who where when';
+	}
+	#how   { grid-area:how;   }
+	#who   { grid-area:who;   }
+	#where { grid-area:where; }
+	#when  { grid-area:when;  }
+
+	.landing_nav-subgrid {
+		align-items:end;
+		display:grid;
+		grid-template-columns:1fr;
+		justify-content:start;
+		overflow:hidden;
+		position:relative;
+
+		img,
+		figcaption {
+			grid-column:1;
+			grid-row:1;
+		}
+
+		img {
+			transform:scale(1);
+			transition:all 0.3s ease-out;
+			transition-delay:0.1s;
+		}
+
+		figcaption {
+			margin:0;
+			padding:1em;
+			z-index:2;
+		}
+
+		h2 {
+			font:400 2em/1 @font-family-knockout-wide;
+			letter-spacing:0.035em;
+			text-transform:uppercase;
+		}
+		p {
+			margin:0;
+		}
+
+		&:before {
+			background:rgba(0,0,0,0.5);
+			content:' ';
+			display:block;
+			height:100%;
+			left:0;
+			position:absolute;
+			top:0;
+			transition:background 0.3s ease-in-out;
+			width:100%;
+			z-index:1;
+		}
+
+		&:focus,
+		&:hover {
+			img {
+				transform:scale(1.1);
+			}
+			&:before {
+				background:rgba(0,0,0,0.65);
+			}
+		}
+	}
+}
