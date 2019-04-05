@@ -1,1 +1,1 @@
-"use strict";function isValid(){"rawr"==document.getElementById("password").value?alert("Correct!"):alert("Wrong Password")}
+"use strict";function isValid(){"rawr"==document.getElementById("password").value||(alert("Sorry, that is the wrong password."),event.preventDefault())}
