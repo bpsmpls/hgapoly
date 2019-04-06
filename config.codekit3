@@ -677,7 +677,7 @@
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
-	"babelNoComments": 0,
+	"babelNoComments": 1,
 	"babelPlugins": {
 		"arrow-functions": {
 			"active": 0
@@ -2923,7 +2923,7 @@
 			"flagValue": -1
 			},
 		"safari10": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
