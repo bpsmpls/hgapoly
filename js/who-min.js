@@ -1,0 +1,1 @@
+!function(n){n(document).ready(function(){n(".bubble").mouseenter(function(){!function(t){let e=t.find(".info-block").html();n("#dynamic-content").html(e)}(n(this))})})}(jQuery);
