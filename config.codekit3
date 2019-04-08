@@ -739,39 +739,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/home_when.jpg": {
-		"ft": 16384,
-		"iS": 71674,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/home_when.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/home_where.jpg": {
-		"ft": 16384,
-		"iS": 83553,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/home_where.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/img/home_who.jpg": {
-		"ft": 16384,
-		"iS": 68378,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/home_who.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/img/homepage_bg.png": {
 		"ft": 32768,
 		"iS": 5874,
