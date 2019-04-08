@@ -24,16 +24,19 @@ $(document).keyup(function(e) {
 	if (e.keyCode === 27) closeModal();
 });
 
-modalTrigger.click(function(e){
-	e.preventDefault();
-
-	let $this       = $(this);
-	let href        = $this.attr('href');
-	let location    = $this.data('location');
+function launchModal(trigger, callback) {
+	let href        = trigger.attr('href');
+	let location    = trigger.data('location');
 	let partialName = href.replace('#','');
 
 	// Dyamically load content from the /_partials folder
 	modalContent.load('/_partials/'+ location + '/' + partialName, function(){
 		openModal(modal);
+
+		// On successful load, run any callbacks to prevent dynamic loading issues
+		if (callback !== null) {
+			callback();
+		}
 	});
-});
+
+}
