@@ -25,6 +25,30 @@
 		"oAP": "/_partials/how/infographic.html",
 		"oF": 0
 		},
+	"/_partials/when/fee.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_partials/when/fee.html",
+		"oF": 0
+		},
+	"/_partials/when/global-expertise.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_partials/when/global-expertise.html",
+		"oF": 0
+		},
+	"/_partials/when/schedule.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_partials/when/schedule.html",
+		"oF": 0
+		},
 	"/_partials/where/confidential-case-study.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -917,6 +941,28 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 1
+		},
+	"/js/when-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/when-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/when.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/when-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"/js/where-min.js": {
 		"bF": 0,

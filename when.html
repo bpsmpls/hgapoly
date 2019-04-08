@@ -53,9 +53,9 @@
 			<nav>
 				<ul class="when_nav-grid">
 					<li>
-						<a href="#schedule" class="modal_trigger">
+						<a href="#schedule" data-modal="schedule" data-location="when">
 							<figure class="img_nav-subgrid">
-								<img src="http://fpoimg.com/500x400">
+								<img src="http://fpoimg.com/500x400?text=Schedule">
 								<figcaption>
 									<h2>Schedule</h2>
 									<p></p>
@@ -64,20 +64,20 @@
 						</a>
 					</li>
 					<li>
-						<a href="#fee" class="modal_trigger">
+						<a href="#fee" data-modal="fee" data-location="when">
 							<figure class="img_nav-subgrid">
-								<img src="http://fpoimg.com/500x400">
+								<img src="http://fpoimg.com/500x400?text=Fee">
 								<figcaption>
-									<h2>Fees</h2>
+									<h2>Fee</h2>
 									<p></p>
 								</figcaption>
 							</figure>
 						</a>
 					</li>
 					<li>
-						<a href="#global-expertise" class="modal_trigger">
+						<a href="#global-expertise" data-modal="global-expertise" data-location="when">
 							<figure class="img_nav-subgrid">
-								<img src="http://fpoimg.com/500x400">
+								<img src="http://fpoimg.com/500x400?text=Global Expertise">
 								<figcaption>
 									<h2>Global Expertise</h2>
 									<p></p>
@@ -87,16 +87,6 @@
 					</li>
 				</ul>
 			</nav>
-
-			<div id="schedule" class="modal_target">
-
-			</div>
-			<div id="fee" class="modal_target">
-
-			</div>
-			<div id="global-expertise" class="modal_target">
-
-			</div>
 		</article>
 	</main>
 
@@ -112,7 +102,18 @@
 		</nav>
 	</footer>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" defer></script> 
-	<script src="js/scripts-min.js" defer></script>
+	<div id="modal" class="modal-wrapper">
+		<div class="modal-inner">
+			<div class="modal-content">
+				<!-- dynamically added content goes here -->
+			</div>
+			<div class="close-modal">X</div>
+		</div>
+		<div class="modal-screen"></div>
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" defer></script>
+	<script src="js/components/modal-min.js" defer></script>
+	<script src="js/when-min.js" defer></script>
 </body>
 </html>
