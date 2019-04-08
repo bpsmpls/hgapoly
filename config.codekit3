@@ -313,6 +313,23 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/css/styles/page-home.less": {
+		"aP": 0,
+		"bl": 0,
+		"eJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 1,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/css/styles/page-home.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/css/styles/page-how.less": {
 		"aP": 0,
 		"bl": 0,
@@ -324,23 +341,6 @@
 		"mS": 0,
 		"oA": 1,
 		"oAP": "/css/styles/page-how.css",
-		"oF": 0,
-		"oS": 0,
-		"rwU": 0,
-		"sI": 0,
-		"sU": 0
-		},
-	"/css/styles/page-landing.less": {
-		"aP": 0,
-		"bl": 0,
-		"eJ": 0,
-		"ft": 1,
-		"ie": 1,
-		"iI": 0,
-		"ma": 1,
-		"mS": 0,
-		"oA": 1,
-		"oAP": "/css/styles/page-landing.css",
 		"oF": 0,
 		"oS": 0,
 		"rwU": 0,
@@ -737,6 +737,39 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/home_when.jpg": {
+		"ft": 16384,
+		"iS": 71674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/home_when.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/home_where.jpg": {
+		"ft": 16384,
+		"iS": 83553,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/home_where.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/home_who.jpg": {
+		"ft": 16384,
+		"iS": 68378,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/home_who.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/homepage_bg.png": {
