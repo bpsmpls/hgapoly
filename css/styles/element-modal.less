@@ -1,0 +1,71 @@
+// Modals
+[data-modal] {
+	cursor:pointer;
+
+	@media (max-width:43em) {
+		cursor:initial;
+	}
+}
+
+.modal-wrapper{
+	background:rgba(0,0,0,0.7);
+	display:none;
+	height:100%;
+	left:0;
+	overflow:auto;
+	position:fixed;
+	top:0;
+	width:100%;
+	z-index:1001;
+}
+.modal-inner {
+	background:@black;
+	height:auto;
+	margin:1em;
+	padding:20px;
+	position:relative;
+	top:0;
+	width:auto;
+	z-index:1003;
+
+	@media (min-width:60em) {
+		margin:2vh auto;
+		max-width:90vw;
+		max-height:98vh;
+	}
+}
+.modal-content {
+	.flexslider img {
+		max-height:87vh;
+		max-width:100%;
+		margin:0 auto;
+		object-fit:cover;
+		object-position:50% 50%;
+		width:auto;
+	}
+}
+.modal-screen {
+	cursor:pointer;
+	display:block;
+	height:100%;
+	left:0;
+	position:fixed;
+	top:0;
+	width:100%;
+	z-index:1002;
+}
+
+.close-modal{
+	background:@black;
+	//.border-radius(50%);
+	color:@white;
+	cursor:pointer;
+	padding:0.5em;
+	position:absolute;
+	right:0;
+	top:0;
+	z-index:1003;
+}
+body.modal-open {
+	overflow:hidden;
+}
