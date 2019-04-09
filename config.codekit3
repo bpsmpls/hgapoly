@@ -1082,6 +1082,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/where/froedtert/2.jpg": {
+		"ft": 16384,
+		"iS": 68304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/froedtert/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/froedtert/20-21.jpg": {
+		"ft": 16384,
+		"iS": 184780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/froedtert/20-21.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/froedtert/8-9.jpg": {
+		"ft": 16384,
+		"iS": 219716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/froedtert/8-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/where/marvin.jpg": {
 		"ft": 16384,
 		"iS": 36059,
