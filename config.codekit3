@@ -1093,6 +1093,50 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/where/marvin/wps_poster1.jpg": {
+		"ft": 16384,
+		"iS": 209080,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/marvin/wps_poster1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/marvin/wps_poster2.jpg": {
+		"ft": 16384,
+		"iS": 151592,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/marvin/wps_poster2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/marvin/wps_poster3.jpg": {
+		"ft": 16384,
+		"iS": 186460,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/marvin/wps_poster3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/marvin/wps_poster4.jpg": {
+		"ft": 16384,
+		"iS": 125295,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/marvin/wps_poster4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/where/paypal.jpg": {
 		"ft": 16384,
 		"iS": 56324,
