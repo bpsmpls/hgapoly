@@ -6,7 +6,9 @@
 		e.preventDefault();
 
 		launchModal($(this), function(){
-			let glide = new Glide('.glide');
+			let glide = new Glide('.glide', {
+  				rewind: false
+  			});
 			glide.mount();
 		});
 	});
