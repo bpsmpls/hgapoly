@@ -3,9 +3,20 @@ article#how {}
 
 // Page layout
 .infographic-grid {
-	align-items:center;
+	//align-items:top;
 	display:grid;
 	grid-gap:2vw;
+	grid-template-areas:'image video''image description';
 	grid-template-columns:1fr 1fr;
+
+	.infographic_image {
+		grid-area:image;
+	}
+	.infographic_video {
+		grid-area:video;
+	}
+	.infographic_description {
+		grid-area:description;
+	}
 }
 
