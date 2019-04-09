@@ -22,7 +22,7 @@
 	background:@black;
 	height:auto;
 	margin:1em;
-	padding:20px;
+	padding:2em;
 	position:relative;
 	top:0;
 	width:auto;
@@ -31,14 +31,17 @@
 	@media (min-width:60em) {
 		margin:2vh auto;
 		max-width:90vw;
-		max-height:98vh;
+		max-height:96vh;
 	}
 }
 .modal-content {
-	.flexslider img {
-		max-height:87vh;
-		max-width:100%;
+	figure {
+		text-align:center;
+	}
+	img {
 		margin:0 auto;
+		max-height:90vh;
+		max-width:100%;
 		object-fit:cover;
 		object-position:50% 50%;
 		width:auto;
@@ -56,15 +59,22 @@
 }
 
 .close-modal{
-	background:@black;
+	background:url('/img/x.svg') 0 0 no-repeat;
+	background-size:contain;
 	//.border-radius(50%);
 	color:@white;
 	cursor:pointer;
-	padding:0.5em;
+	height:1em;
 	position:absolute;
-	right:0;
-	top:0;
+	right:0.5em;
+	text-indent:-999em;
+	top:0.5em;
+	width:1em;
 	z-index:1003;
+}
+.modal-narrow {
+	margin:0 auto;
+	max-width:40em;
 }
 body.modal-open {
 	overflow:hidden;

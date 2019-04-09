@@ -739,6 +739,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/caret_left.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/caret_left.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/caret_right.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/caret_right.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/img/headshots/Anja-Hamilton.jpg": {
 		"ft": 16384,
 		"iS": 28986,
@@ -772,34 +792,34 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/home_when.jpg": {
+	"/img/home/when.jpg": {
 		"ft": 16384,
 		"iS": 58052,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/home_when.jpg",
+		"oAP": "/img/home/when.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/home_where.jpg": {
+	"/img/home/where.jpg": {
 		"ft": 16384,
 		"iS": 71625,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/home_where.jpg",
+		"oAP": "/img/home/where.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/home_who.jpg": {
+	"/img/home/who.jpg": {
 		"ft": 16384,
 		"iS": 52928,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/home_who.jpg",
+		"oAP": "/img/home/who.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -816,67 +836,67 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/how_process-diagram_1.jpg": {
+	"/img/how/process-diagram_1.jpg": {
 		"ft": 16384,
 		"iS": 93704,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/how_process-diagram_1.jpg",
+		"oAP": "/img/how/process-diagram_1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/how_process-diagram_2.jpg": {
+	"/img/how/process-diagram_2.jpg": {
 		"ft": 16384,
 		"iS": 101426,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/how_process-diagram_2.jpg",
+		"oAP": "/img/how/process-diagram_2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/how_process-diagram_3.jpg": {
+	"/img/how/process-diagram_3.jpg": {
 		"ft": 16384,
 		"iS": 121789,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/how_process-diagram_3.jpg",
+		"oAP": "/img/how/process-diagram_3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/how_process-diagram_4.jpg": {
+	"/img/how/process-diagram_4.jpg": {
 		"ft": 16384,
 		"iS": 108845,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/how_process-diagram_4.jpg",
+		"oAP": "/img/how/process-diagram_4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/how_process-diagram_5.jpg": {
+	"/img/how/process-diagram_5.jpg": {
 		"ft": 16384,
 		"iS": 91274,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/how_process-diagram_5.jpg",
+		"oAP": "/img/how/process-diagram_5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/img/how_process-diagram_full.jpg": {
+	"/img/how/process-diagram_full.jpg": {
 		"ft": 16384,
 		"iS": 86397,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/img/how_process-diagram_full.jpg",
+		"oAP": "/img/how/process-diagram_full.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -902,11 +922,406 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/img/who_venn.svg": {
+	"/img/when/fee.jpg": {
+		"ft": 16384,
+		"iS": 60467,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/when/fee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/when/schedule.jpg": {
+		"ft": 16384,
+		"iS": 53012,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/when/schedule.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/confidential.jpg": {
+		"ft": 16384,
+		"iS": 58007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/confidential/Confidential1.jpg": {
+		"ft": 16384,
+		"iS": 141860,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential/Confidential1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/confidential/Confidential2.jpg": {
+		"ft": 16384,
+		"iS": 298914,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential/Confidential2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/froedtert.jpg": {
+		"ft": 16384,
+		"iS": 76329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/froedtert.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/marvin.jpg": {
+		"ft": 16384,
+		"iS": 36059,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/marvin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal.jpg": {
+		"ft": 16384,
+		"iS": 56324,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2128.jpg": {
+		"ft": 16384,
+		"iS": 427608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2128.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2223.jpg": {
+		"ft": 16384,
+		"iS": 229099,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2223.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2268.jpg": {
+		"ft": 16384,
+		"iS": 279011,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2268.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2293.jpg": {
+		"ft": 16384,
+		"iS": 360968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2293.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2357.jpg": {
+		"ft": 16384,
+		"iS": 259696,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2357.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2409.jpg": {
+		"ft": 16384,
+		"iS": 223906,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2409.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2459.jpg": {
+		"ft": 16384,
+		"iS": 271631,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2459.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2532.jpg": {
+		"ft": 16384,
+		"iS": 196800,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2532.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2545.jpg": {
+		"ft": 16384,
+		"iS": 246162,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2545.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2562.jpg": {
+		"ft": 16384,
+		"iS": 226441,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2562.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2673.jpg": {
+		"ft": 16384,
+		"iS": 261649,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2673.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/paypal/hga-paypal15-2700.jpg": {
+		"ft": 16384,
+		"iS": 196413,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/paypal/hga-paypal15-2700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage.jpg": {
+		"ft": 16384,
+		"iS": 33413,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-2993_webview.jpg": {
+		"ft": 16384,
+		"iS": 50340,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-2993_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3044_webview.jpg": {
+		"ft": 16384,
+		"iS": 51122,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3044_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3066_webview.jpg": {
+		"ft": 16384,
+		"iS": 57833,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3066_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3197_webview.jpg": {
+		"ft": 16384,
+		"iS": 76178,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3197_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3236_webview.jpg": {
+		"ft": 16384,
+		"iS": 47382,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3236_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3260_webview.jpg": {
+		"ft": 16384,
+		"iS": 61744,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3260_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3392_webview.jpg": {
+		"ft": 16384,
+		"iS": 73463,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3392_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3566_webview.jpg": {
+		"ft": 16384,
+		"iS": 65197,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3566_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3572_webview.jpg": {
+		"ft": 16384,
+		"iS": 56571,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3572_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3703_webview.jpg": {
+		"ft": 16384,
+		"iS": 77765,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3703_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-3747_webview.jpg": {
+		"ft": 16384,
+		"iS": 58849,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-3747_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-9892_webview.jpg": {
+		"ft": 16384,
+		"iS": 46839,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-9892_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-9925_webview.jpg": {
+		"ft": 16384,
+		"iS": 62516,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-9925_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/realpage/3622_003_00_RealPageTX-bc-9976_webview.jpg": {
+		"ft": 16384,
+		"iS": 45876,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/realpage/3622_003_00_RealPageTX-bc-9976_webview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/who/venn.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/img/who_venn.svg",
+		"oAP": "/img/who/venn.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/x.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/x.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -964,17 +1379,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/how-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/how-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/js/how.js": {
 		"bF": 0,
 		"ft": 64,
@@ -986,13 +1390,57 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/password-min.js": {
+	"/js/min/how-min.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/password-min-min.js",
+		"oAP": "/js/min/how-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/min/password-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/min/password-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/min/when-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/min/when-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/min/where-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/min/where-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/js/min/who-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/min/who-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -1008,17 +1456,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/when-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/when-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/js/when.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1030,17 +1467,6 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/js/where-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/where-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/js/where.js": {
 		"bF": 0,
 		"ft": 64,
@@ -1048,17 +1474,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/where-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/who-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/who-min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
