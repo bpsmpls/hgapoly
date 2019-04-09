@@ -1,4 +1,4 @@
-const setPassword = 'poly';
+const setPassword = 'intuitive';
 const homepageUrl = 'http://hgapoly.test/home';
 
 // Setting the cookie for capture
