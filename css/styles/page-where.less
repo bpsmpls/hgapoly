@@ -69,12 +69,20 @@ article#where {}
 }
 
 .project_description {
-	.project_title {}
+	.project_title {
+		font-size:2em;
+		margin:0 0 1em;
+	}
 	.project_columns {
 		columns:2;
 		column-gap:2em;
 	}
 	.video {
 		margin:0 0 1em;
+	}
+	p {
+		-webkit-column-break-inside: avoid;
+		          page-break-inside: avoid;
+		               break-inside: avoid;
 	}
 }
