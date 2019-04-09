@@ -682,33 +682,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/bubbles/habitat.png": {
-		"ft": 32768,
-		"iS": 2936,
-		"oA": 0,
-		"oAP": "/img/bubbles/habitat.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/img/bubbles/kara-freihoefer.png": {
 		"ft": 32768,
 		"iS": 24585,
 		"oA": 0,
 		"oAP": "/img/bubbles/kara-freihoefer.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/bubbles/logo_polycom.png": {
-		"ft": 32768,
-		"iS": 8165,
-		"oA": 0,
-		"oAP": "/img/bubbles/logo_polycom.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -742,28 +720,6 @@
 		"iS": 16581,
 		"oA": 0,
 		"oAP": "/img/bubbles/perry-stephney.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/bubbles/plantronics.png": {
-		"ft": 32768,
-		"iS": 3202,
-		"oA": 0,
-		"oAP": "/img/bubbles/plantronics.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/img/bubbles/polycom.png": {
-		"ft": 32768,
-		"iS": 3090,
-		"oA": 0,
-		"oAP": "/img/bubbles/polycom.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
