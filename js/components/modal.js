@@ -8,11 +8,11 @@ const modalWrapper = $('.modal-wrapper');
 const modalContent = $('.modal-content');
 
 function closeModal() {
-	modalWrapper.hide();
+	//modalWrapper.removeClass('active');
 	body.removeClass('modal-open');
 }
 function openModal(target) {
-	target.show();
+	//target.addClass('active');
 	body.addClass('modal-open');
 }
 
@@ -30,7 +30,7 @@ function launchModal(trigger, callback) {
 	let partialName = href.replace('#','');
 
 	// Dyamically load content from the /_partials folder
-	modalContent.load('/_partials/' + location + '/' + partialName, function(){
+	modalContent.load('_partials/' + location + '/' + partialName, function(){
 		openModal(modal);
 
 		// On successful load, run any callbacks to prevent dynamic loading issues
