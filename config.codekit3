@@ -104,9 +104,9 @@
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
-		"ie": 0,
+		"ie": 1,
 		"iI": 0,
-		"ma": 0,
+		"ma": 1,
 		"mS": 0,
 		"oA": 0,
 		"oAP": "/css/glide.css",
@@ -161,18 +161,18 @@
 		"oS": 3
 		},
 	"/css/style.less": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
-		"ie": 0,
+		"ie": 1,
 		"iI": 0,
-		"ma": 0,
+		"ma": 1,
 		"mS": 0,
 		"oA": 0,
 		"oAP": "/css/style.css",
-		"oF": 2,
-		"oS": 1,
+		"oF": 0,
+		"oS": 0,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
@@ -561,7 +561,7 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/how.html",
-		"oF": 2
+		"oF": 0
 		},
 	"/img/bubbles/1.png": {
 		"ft": 32768,
@@ -737,6 +737,72 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"/img/headshots/Anja-Hamilton.jpg": {
+		"ft": 16384,
+		"iS": 28986,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/headshots/Anja-Hamilton.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/headshots/Antonia-Cardone.jpg": {
+		"ft": 16384,
+		"iS": 21416,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/headshots/Antonia-Cardone.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/headshots/Michael-Pereria.jpg": {
+		"ft": 16384,
+		"iS": 30562,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/headshots/Michael-Pereria.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/home_when.jpg": {
+		"ft": 16384,
+		"iS": 58052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/home_when.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/home_where.jpg": {
+		"ft": 16384,
+		"iS": 71625,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/home_where.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/home_who.jpg": {
+		"ft": 16384,
+		"iS": 52928,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/home_who.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/homepage_bg.png": {
@@ -940,7 +1006,7 @@
 		"oAP": "/js/password-min.js",
 		"oF": 0,
 		"sC": 3,
-		"tS": 1
+		"tS": 0
 		},
 	"/js/when-min.js": {
 		"bF": 0,
@@ -976,7 +1042,7 @@
 		"tS": 0
 		},
 	"/js/where.js": {
-		"bF": 4,
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -1059,7 +1125,7 @@
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
-	"babelNoComments": 1,
+	"babelNoComments": 0,
 	"babelPlugins": {
 		"arrow-functions": {
 			"active": 0
@@ -1472,7 +1538,7 @@
 		},
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
-	"esLintEnvironmentsMask": 8193,
+	"esLintEnvironmentsMask": 1,
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
@@ -3305,7 +3371,7 @@
 			"flagValue": -1
 			},
 		"safari10": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
