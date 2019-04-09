@@ -1,0 +1,51 @@
+// Colophon
+#colophon {
+	font-size:0.875em;
+	padding:2em;
+	
+	nav {}
+	ul {
+		display:flex;
+		flex-flow:row nowrap;
+		justify-content:center;
+	}
+	li {
+		border-left:1px solid @gray;
+		padding:0 1em;
+	}
+	a {
+		color:@gray;
+		line-height:1;
+	}
+	li:first-child {
+		border:0;
+	}
+
+	.social {
+		margin-top:1em;
+
+		li {
+			border:0;
+			margin:0 1em;
+			padding:0;
+		}
+	}
+	.icon {
+		background-repeat:no-repeat;
+		background-size:contain;
+		display:block;
+		height:1em;
+		text-indent:-999em;
+		width:1em;
+
+		&.instagram {
+			background-image:url('/img/social/instagram.svg');
+		}
+		&.linkedin {
+			background-image:url('/img/social/linkedin.svg');
+		}
+		&.twitter {
+			background-image:url('/img/social/twitter.svg');
+		}
+	}
+}
