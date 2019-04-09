@@ -1,5 +1,5 @@
 const setPassword = 'intuitive';
-const homepageUrl = 'http://hgapoly.test/home';
+const homepageUrl = 'home';
 
 // Setting the cookie for capture
 function setCookie(cname, cvalue, time) {
