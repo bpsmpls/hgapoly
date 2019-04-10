@@ -829,6 +829,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/where/confidential/2018_01_30---P6.jpg": {
+		"ft": 16384,
+		"iS": 261926,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential/2018_01_30---P6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/where/confidential/Confidential1.jpg": {
 		"ft": 16384,
 		"iS": 87141,
@@ -846,6 +857,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/where/confidential/Confidential2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/confidential/Holodeck-Corridor-view-No-Logo.jpg": {
+		"ft": 16384,
+		"iS": 338254,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential/Holodeck-Corridor-view-No-Logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/confidential/progress2.jpg": {
+		"ft": 16384,
+		"iS": 302064,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential/progress2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/where/confidential/Render-P2---07.jpg": {
+		"ft": 16384,
+		"iS": 340211,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/where/confidential/Render-P2---07.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
