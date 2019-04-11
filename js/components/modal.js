@@ -30,7 +30,7 @@ function launchModal(trigger, callback) {
 	let partialName = href.replace('#','');
 
 	// Dyamically load content from the /_partials folder
-	modalContent.load('_partials/' + location + '/' + partialName, function(){
+	modalContent.load('_partials/' + location + '/' + partialName + '.html', function(){
 		openModal(modal);
 
 		// On successful load, run any callbacks to prevent dynamic loading issues
