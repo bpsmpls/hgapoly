@@ -622,7 +622,7 @@
 		"oAP": "/js/min/how-min.js",
 		"oF": 2,
 		"sC": 3,
-		"tS": 0
+		"tS": 1
 		},
 	"/js/min/how-min.js": {
 		"bF": 0,
@@ -688,7 +688,7 @@
 		"oAP": "/js/min/password-min.js",
 		"oF": 2,
 		"sC": 3,
-		"tS": 0
+		"tS": 1
 		},
 	"/js/when.js": {
 		"bF": 0,
@@ -699,7 +699,7 @@
 		"oAP": "/js/min/when-min.js",
 		"oF": 2,
 		"sC": 3,
-		"tS": 0
+		"tS": 1
 		},
 	"/js/where.js": {
 		"bF": 0,
@@ -710,7 +710,7 @@
 		"oAP": "/js/min/where-min.js",
 		"oF": 2,
 		"sC": 3,
-		"tS": 0
+		"tS": 1
 		},
 	"/js/who.js": {
 		"bF": 0,
@@ -721,7 +721,7 @@
 		"oAP": "/js/min/who-min.js",
 		"oF": 2,
 		"sC": 3,
-		"tS": 0
+		"tS": 1
 		},
 	"/when.html": {
 		"cB": 0,
@@ -1187,7 +1187,7 @@
 		},
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
-	"esLintEnvironmentsMask": 1,
+	"esLintEnvironmentsMask": 8193,
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
