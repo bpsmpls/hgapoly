@@ -25,78 +25,6 @@
 		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"/_partials/how/infographic.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/how/infographic.html",
-		"oF": 0
-		},
-	"/_partials/when/fee.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/when/fee.html",
-		"oF": 0
-		},
-	"/_partials/when/global-expertise.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/when/global-expertise.html",
-		"oF": 0
-		},
-	"/_partials/when/schedule.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/when/schedule.html",
-		"oF": 0
-		},
-	"/_partials/where/confidential-case-study.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/where/confidential-case-study.html",
-		"oF": 0
-		},
-	"/_partials/where/corporate-campus.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/where/corporate-campus.html",
-		"oF": 0
-		},
-	"/_partials/where/froedtert.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/where/froedtert.html",
-		"oF": 0
-		},
-	"/_partials/where/paypal.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/where/paypal.html",
-		"oF": 0
-		},
-	"/_partials/where/realpage.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_partials/where/realpage.html",
-		"oF": 0
-		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -722,6 +650,102 @@
 		"oF": 2,
 		"sC": 3,
 		"tS": 1
+		},
+	"/partials/how/infographic.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/how/infographic.html",
+		"oF": 0
+		},
+	"/partials/when/fee.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/when/fee.html",
+		"oF": 0
+		},
+	"/partials/when/global-expertise.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/when/global-expertise.html",
+		"oF": 0
+		},
+	"/partials/when/schedule.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/when/schedule.html",
+		"oF": 0
+		},
+	"/partials/where/confidential-case-study.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/where/confidential-case-study.html",
+		"oF": 0
+		},
+	"/partials/where/corporate-campus.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/where/corporate-campus.html",
+		"oF": 0
+		},
+	"/partials/where/froedtert.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/where/froedtert.html",
+		"oF": 0
+		},
+	"/partials/where/paypal.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/where/paypal.html",
+		"oF": 0
+		},
+	"/partials/where/realpage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/partials/where/realpage.html",
+		"oF": 0
+		},
+	"/when.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/when.html",
+		"oF": 0
+		},
+	"/where.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/where.html",
+		"oF": 0
+		},
+	"/who.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/who.html",
+		"oF": 0
 		}
 	},
 "hooks": [
