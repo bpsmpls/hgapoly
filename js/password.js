@@ -1,5 +1,5 @@
 const setPassword = 'intuitive';
-const homepageUrl = 'home';
+const homepageUrl = '/poly/home';
 
 // Setting the cookie for capture
 function setCookie(cname, cvalue, time) {
