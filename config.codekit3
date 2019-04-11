@@ -722,30 +722,6 @@
 		"oF": 2,
 		"sC": 3,
 		"tS": 1
-		},
-	"/when.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/when.html",
-		"oF": 0
-		},
-	"/where.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/where.html",
-		"oF": 0
-		},
-	"/who.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/who.html",
-		"oF": 0
 		}
 	},
 "hooks": [
